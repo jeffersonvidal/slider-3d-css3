@@ -13,3 +13,7 @@ Efeito de rotação 3D de slider de fotos, utilizando apenas HTML5 e CSS3.
 ![Demonstration](https://github.com/jeffersonvidal/slider-3d-css3/blob/master/screenshots/demo.gif?raw=true)
 
 ![Screen1](https://github.com/jeffersonvidal/slider-3d-css3/blob/master/screenshots/screen1.jpg?raw=true)
+
+---
+
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
